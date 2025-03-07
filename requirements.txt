@@ -6,6 +6,6 @@ langchain-community
 openai
 snowflake-connector-python
 snowflake-snowpark-python
-psycopg2
+psycopg2-binary==2.9.10
 langchain-openai
 snowflake-sqlalchemy
