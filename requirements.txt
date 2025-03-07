@@ -9,4 +9,3 @@ snowflake-snowpark-python
 psycopg2
 langchain-openai
 snowflake-sqlalchemy
-streamlit_modal
