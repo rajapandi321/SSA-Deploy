@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/becdcd32-aa6e-405f-b13f-ff22db8180e6/resourceGroups/azuredp-203/providers/Microsoft.Web/sites/sqlserver",
+    "appService.deploySubpath": "."
+}

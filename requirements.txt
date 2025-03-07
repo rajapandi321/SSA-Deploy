@@ -1,0 +1,12 @@
+streamlit
+langchain
+pyodbc
+python-dotenv
+langchain-community
+openai
+snowflake-connector-python
+snowflake-snowpark-python
+psycopg2
+langchain-openai
+snowflake-sqlalchemy
+streamlit_modal
